@@ -18,3 +18,7 @@ does this by connecting the two branches and maintaining the histories of each i
 Rebasing, on the other hand, places on entire branch on top of another and makes them one, linear
 branch.
 
+Q4: What skills do you hope to improve during this course?
+
+Answer: I hope to improve my skills in python, pandas, and numpy, along with my analytical 
+and problem-solving skills over the course of the semester.
